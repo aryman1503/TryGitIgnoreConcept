@@ -1,0 +1,2 @@
+# TryGitIgnoreConcept
+Git
